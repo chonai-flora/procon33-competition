@@ -1,0 +1,6 @@
+numpy
+matplotlib
+aiohttp
+requests
+librosa
+pydub
